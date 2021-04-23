@@ -1,0 +1,13 @@
+citHeader("To cite braggR in publications use:")
+
+citEntry(entry = "Unpublished",
+         title        = "Regularized Aggregation of One-off Probability Predictions",
+         author       = personList(as.person("Ville Satopää")),
+         Note          = "Available in https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3769945",
+
+         textVersion  =
+           paste("Ville Satopää (2021)",
+                 "Regularized Aggregation of One-off Probability Predictions",
+                 "SSRN",
+                 "URL https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3769945")
+)
