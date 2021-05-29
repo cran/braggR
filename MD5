@@ -1,11 +1,11 @@
-9d85be08440d60041a52f01896082b82 *DESCRIPTION
+f97f727b6c2d4a0455b144d96debbcc3 *DESCRIPTION
 659c039f8ee7d53574f97c63da1bf0aa *NAMESPACE
 624b06410e247a608377f6d48f5bebe5 *R/RcppExports.R
-0cf961483562c9e7fcfcf3e069f12545 *R/sample_aggregator.R
-76849d4853a5dfd22c973d3bff352c06 *README.md
+390b397c01d751326e669e28ae960c55 *R/sample_aggregator.R
+cbb308da9b546f79059f1d6953d23c1c *README.md
 d41d8cd98f00b204e9800998ecf8427e *inst/AUTHOR
 ebc586020fcff19bcc7df2d56307899b *inst/CITATION
-68c217b4ef49af53d61c49e84bee57a8 *man/sample_aggregator.Rd
+a0629d312fe404983adfcaa10bfc40aa *man/sample_aggregator.Rd
 cc73aefd07f8d3f561e8fde81f796341 *src/RcppExports.cpp
 858e93722e44a85afa3414651697d20c *src/RegBayes.cpp
 eea85ab5fd32e21d3f2b1f10763cafb5 *tests/testthat.R

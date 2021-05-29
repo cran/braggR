@@ -1,7 +1,7 @@
 Package: braggR
 Type: Package
 Title: Calculate the Revealed Aggregator of Probability Predictions
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     c(person(given = "Ville",
              family = "Satopää",
@@ -21,9 +21,9 @@ Description:
     other state-of-the-art aggregators by 10-25%. The advantage stems almost
     exclusively from improved calibration. This aggregator -- know as "the revealed
     aggregator" -- inputs a) forecasters' probability predictions (p) of a future binary event
-    and b) the forecasters' base rate (p0) of the future event. In this R-package,
+    and b) the forecasters' common prior (p0) of the future event. In this R-package,
     the function sample_aggregator(p,p0,...) allows the user to calculate the revealed
-    aggregator. Its use is illustrated with a simple stylized example. 
+    aggregator. Its use is illustrated with a simple example. 
 License: GPL-2
 Copyright: (c) Ville Satopaa
 Encoding: UTF-8
@@ -33,8 +33,8 @@ Imports: Rcpp
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2021-04-16 12:33:30 UTC; ville.satopaa
+Packaged: 2021-05-29 12:57:04 UTC; ville.satopaa
 Author: Ville Satopää [aut, cre, cph]
 Maintainer: Ville Satopää <ville.satopaa@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-04-23 07:50:06 UTC
+Date/Publication: 2021-05-29 13:10:02 UTC
